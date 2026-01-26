@@ -1,0 +1,163 @@
+.id {
+    display : flex;
+    min-height : 200px;
+    background-color: #3C1671;
+    align-items: center;
+    border-radius: 24px;
+    padding : 24px;
+    margin-bottom : 24px;
+}
+
+.id img {
+    height : 100%;
+    margin-right : 24px;
+}
+
+.id h1 {
+    font-family : Lexend;
+    font-size : 30px;
+    font-style: italic;
+}
+
+.page {
+    display : flex;
+    flex-direction : row;
+    margin-bottom : 24px;
+}
+
+.parcours {
+    display : flex;
+    flex-direction: column;
+    background-color: #270B4E;
+    border-radius: 24px;
+    padding : 24px;
+    width : 25%;
+    align-items: center;
+    min-height: 380px;
+    margin-right : 24px;
+    text-align: justify;
+    margin-bottom: auto;
+}
+
+.graph {
+    display : flex;
+    flex-direction: row;
+    font-family: Atkinson Hyperlegible;
+    font-size: 16px;
+    align-items: center;
+}
+
+.parcours h1 {
+    font-family: Lexend;
+    font-size : 36px;
+    margin : 0;
+}
+
+.parcours h2 {
+    font-size: 16px;
+    font-weight: 900;
+    min-width : 60px;
+}
+
+.parcours img {
+    margin-right : 10px;
+    max-height : 370px;
+}
+
+.bac {
+    display : flex;
+    align-items: center;
+}
+
+.stage {
+    display : flex;
+    align-items: center;
+}
+
+.dut {
+    display : flex;
+    align-items: center;
+}
+
+.lpjv {
+    display : flex;
+    align-items: center;
+}
+
+.inspirations {
+    display : flex;
+    flex-direction: column;
+    background-color: #F9F5FF;
+    border-radius: 24px;
+    padding : 24px;
+    width : 69%;
+    align-items: center;
+    min-height : 380px;
+    align-items: center;
+}
+
+.inspirations h1 {
+    color : #170531;
+    font-family: Lexend;
+    font-size : 36px;
+    margin : 0;
+}
+
+.etagere {
+    display : flex;
+    flex-direction: row;
+    margin-top: 24px;
+    height : 90%;
+    width : 95%;
+}
+
+.splatoon, .spiderman, .macintosh, .discovery, .mrfox {
+    width : 18%;
+    margin-left : 1%;
+    margin-right: 1%;
+    display : flex;
+    flex-direction: column;
+    background-color: #270B4E;
+    border-radius: 16px;
+    text-align: justify;
+}
+
+.etagere img {
+    width : 100%;
+    margin-right : 1%;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.etagere h3 {
+    font-family : Atkinson Hyperlegible;
+    margin : 6px;
+    font-size : 15px;
+    font-weight: 500;
+}
+
+@media screen and (max-width : 1300px) {
+    .inspirations {
+        align-items: center;
+        min-height : 500px;
+    }
+    .etagere {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .splatoon, .spiderman, .macintosh, .discovery, .mrfox {
+        margin-top: 1%;
+        margin-bottom: 1%;
+        width : 100%;
+        flex-direction: row;
+        align-items : center;
+    }
+    .etagere img {
+        max-width : 30%;
+        border-bottom-left-radius: 16px;
+        border-top-right-radius: 0px;
+    }
+    .etagere h3 {
+        max-width : 65%;
+    }
+}

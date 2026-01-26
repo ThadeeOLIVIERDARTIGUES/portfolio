@@ -1,0 +1,60 @@
+.formulaire {
+    margin-bottom : 200px;
+}
+
+.contact {
+    display : flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    justify-self: center;
+    text-decoration: none;
+    width : 100%;
+}
+
+.contact img {
+    width : 36px;
+    margin-right: 12px;
+}
+
+.mail, .linkedin, .instagram {
+    display : flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.contact a {
+    text-decoration: none;
+}
+
+.contact h3 {
+    margin : 0;
+    text-decoration: none;
+    font-family: Atkinson Hyperlegible;
+    font-weight: 600;
+    font-size : 24px;
+}
+
+.mail img {
+    width : 36px;
+    margin-right: 12px;
+}
+
+@media screen and (max-width : 1200px) {
+    .contact {
+        flex-direction: column;
+    }    
+
+    .contact a {
+        text-decoration: none;
+        margin-bottom : 50px;
+    }
+
+    .mail {
+        margin-bottom : 50px;
+    }
+}
