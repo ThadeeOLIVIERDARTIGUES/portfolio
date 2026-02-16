@@ -56,12 +56,6 @@
     padding-bottom: 12px;
 }
 
-.competences h2 {
-    font-family: Lexend;
-    color: #F9F5FF;
-    margin : 0;
-}
-
 .compmain {
     color: #270B4E;
     text-align: left;
@@ -88,4 +82,5 @@
     .img1, .img2 {
         width : 100%;
     }
+
 }
