@@ -68,6 +68,13 @@
     font-size: 18px;
 }
 
+.compmain h4 {
+    font-family: Lexend;
+    font-weight : bold;
+    color: #270B4E;
+    font-size : 20px;
+}
+
 .competences h2 {
     font-family: Lexend;
     color: #F9F5FF;
@@ -84,3 +91,4 @@
     }
 
 }
+
