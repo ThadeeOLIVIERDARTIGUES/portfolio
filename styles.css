@@ -163,6 +163,7 @@ footer {
 
 .footermiddle img {
     max-height : 100px;
+    width : 100%;
 }
 
 .footercopyright {
@@ -194,3 +195,4 @@ footer {
     height : 20px;
 
 }
+
