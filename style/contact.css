@@ -1,5 +1,6 @@
-.formulaire {
-    margin-bottom : 200px;
+label {
+    font-family : Lexend ;
+    color : #F9F5FF;
 }
 
 .contact {
@@ -62,4 +63,5 @@ a.navcontact {
     .mail {
         margin-bottom : 50px;
     }
+
 }
