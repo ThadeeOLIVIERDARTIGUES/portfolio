@@ -10,6 +10,10 @@ label {
     color : #F9F5FF;
 }
 
+button {
+    max-width : 50px;
+
+    
 .contact {
     display : flex;
     flex-direction: row;
@@ -72,6 +76,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
