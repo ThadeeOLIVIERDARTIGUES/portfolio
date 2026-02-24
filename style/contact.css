@@ -8,10 +8,13 @@ form {
 label {
     font-family : Lexend;
     color : #F9F5FF;
+    margin-bottom : 24px;
 }
 
 button {
     width : 200px;
+    font-family : Atkinson Hyperlegible;
+    color : #170531;
 }
     
 .contact {
@@ -76,6 +79,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
