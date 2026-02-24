@@ -20,7 +20,7 @@ button {
     font-family : Atkinson Hyperlegible;
     background-color : #270B4E;
     border-color : #3C1671;
-    color : #F9F5FF
+    color : #F9F5FF;
     border-radius : 4px;
     border-style : solid;
 }
@@ -87,6 +87,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
