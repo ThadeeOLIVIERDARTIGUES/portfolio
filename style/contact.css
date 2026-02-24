@@ -3,7 +3,7 @@ form {
     flex-direction : column;
     self-align : center;
     align-items : center;
-    margin-bottom : 24px;
+    margin-bottom : 100px;
     margin-top : 150px;
 }
 
@@ -96,6 +96,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
