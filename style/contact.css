@@ -2,6 +2,7 @@ form {
     display : flex;
     flex-direction : column;
     self-align : center;
+}
 
 label {
     font-family : Lexend;
@@ -70,4 +71,5 @@ a.navcontact {
     }
 
 }
+
 
