@@ -21,6 +21,8 @@ button {
     background-color : #270B4;
     border-color : #3C1671;
     color : #F9F5FF
+    border-radius : 4px;
+    border-style : solid;
 }
     
 .contact {
@@ -85,6 +87,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
