@@ -22,6 +22,7 @@ button {
     width : 50px;
     height : 36px;
     font-family : Atkinson Hyperlegible;
+    font-size : 18px;
     background-color : #270B4E;
     border-color : #3C1671;
     color : #F9F5FF;
@@ -91,6 +92,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
