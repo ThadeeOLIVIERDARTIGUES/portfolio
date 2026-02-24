@@ -27,7 +27,7 @@ button {
     background-color : #270B4E;
     border-color : #3C1671;
     color : #F9F5FF;
-    border-radius : 8px;
+    border-radius : 12px;
     border-style : solid;
 }
     
@@ -93,6 +93,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
