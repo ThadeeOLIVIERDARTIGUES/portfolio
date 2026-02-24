@@ -2,6 +2,7 @@ form {
     display : flex;
     flex-direction : column;
     self-align : center;
+    justify-content : center;
 }
 
 label {
@@ -71,5 +72,6 @@ a.navcontact {
     }
 
 }
+
 
 
