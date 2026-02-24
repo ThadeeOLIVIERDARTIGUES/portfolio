@@ -52,7 +52,8 @@
     font-family: Atkinson Hyperlegible;
     font-weight: normal;
     font-size: 18px;
-    margin : 0;
+    margin-left : 6px;
+    margin-right : 6px;
     margin-top: 12px;
 }
 
@@ -93,4 +94,5 @@ img.flstudio {
 a.navcompetences {
     background-color: #F9F5FF;
     color : #170531;
+
 }
