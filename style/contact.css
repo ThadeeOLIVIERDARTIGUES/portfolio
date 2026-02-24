@@ -12,9 +12,12 @@ label {
 }
 
 button {
-    width : 200px;
+    width : 50px;
+    height : 36px;
     font-family : Atkinson Hyperlegible;
-    color : #170531;
+    background-color : #3C1671;
+    border-color : #170531;
+    color : #F9F5FF
 }
     
 .contact {
@@ -79,6 +82,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
