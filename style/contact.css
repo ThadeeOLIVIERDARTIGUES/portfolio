@@ -80,7 +80,7 @@ a.navcontact {
     color : #170531;
 }
 
-@media screen and (max-width : 1200px) {
+@media screen and (max-width : 1300px) {
     .contact {
         flex-direction: column;
     }    
@@ -95,6 +95,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
