@@ -6,6 +6,9 @@ form {
 }
 
 label {
+    display : flex;
+    flex-direction : row;
+    justify-content : start;
     font-family : Lexend;
     color : #F9F5FF;
     margin-bottom : 24px;
@@ -82,6 +85,7 @@ a.navcontact {
     }
 
 }
+
 
 
 
