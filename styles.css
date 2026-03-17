@@ -2,7 +2,7 @@ body {
     margin : 0;
     color : #F9F5FF;
     background-color: #170531;
-    cursor : crosshair;
+    cursor : url(images/cursor.svg);
 }
 
 a {
