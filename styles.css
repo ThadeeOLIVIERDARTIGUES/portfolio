@@ -2,7 +2,7 @@ body {
     margin : 0;
     color : #F9F5FF;
     background-color: #170531;
-    cursor : url("images/cursor.svg") 4 12, auto;
+    cursor: url("images/cursor.png"), default;
 }
 
 a {
