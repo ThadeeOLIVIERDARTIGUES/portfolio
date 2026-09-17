@@ -1,9 +1,5 @@
 html {
-    cursor : url(images/cursor.png), auto, margin-right : 10px;
-}
-
-html:hover {
-    cursor : url(images/cursor.png), auto, margin-right : 10px;
+    cursor : url(images/cursor.svg), auto;
 }
 
 body {
