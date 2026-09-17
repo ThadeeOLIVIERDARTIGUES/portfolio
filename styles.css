@@ -95,7 +95,10 @@ main {
     min-height: 1000px;
 }
 
-
+textarea {
+    width : 800px;
+    height : 400px;
+}
 
 .navbar {
     display : flex;
